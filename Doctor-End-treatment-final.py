@@ -12,7 +12,7 @@ print(result)
 pname = input(" Name of the patient u want to treat :") 
 id = input(" Name of the patient id:") 
 pres = input(" Write prescription and medication :")
-#hello
+#hello2
 
 #writing the prescription to the database
 result=firebase.put('/hospital-management-syst-bd8b0/Pres',pname,{'prescription':pres})
