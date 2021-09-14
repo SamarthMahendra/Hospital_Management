@@ -1,5 +1,5 @@
 
-
+#1
 from firebase import firebase
 firebase = firebase.FirebaseApplication("https://hospital-management-syst-bd8b0.firebaseio.com/" ,None)
 #collecting details from the doctor
