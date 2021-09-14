@@ -30,3 +30,4 @@ result=firebase.put(str2,id,name)
 print(result)
 print("appointment successful")
 #12
+# u need pip install python-firebase
